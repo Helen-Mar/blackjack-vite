@@ -1,5 +1,5 @@
-// import _ from './underscore.module.js';
-// import './style.module.css'
+// import _ from 'underscore';
+// import './style.css'
 
 let deck         = [];
 const tipos      = ['C','D','H','S'];
